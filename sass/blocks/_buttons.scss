@@ -1,0 +1,35 @@
+.button{
+    margin-top: 10px;
+    width: 153px;
+    height: 32px;
+    border: none;
+    background-color: $main-color;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    &_main{
+        margin-top: 79px;
+        width: 303px;
+        height: 54px;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 25px;
+    }
+    &_form{
+        width: 303px;
+        height: 58px;
+        font-size: 16px;
+        line-height: 25px; 
+    }
+    &_mini{
+        width: 131px;
+        height: 40px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+}
